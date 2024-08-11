@@ -26,7 +26,7 @@ Upon click on a game image, route the user to a brief description of the game.
 
 Here's a walkthrough of implemented features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/QwL98eX"><a href="/Sea Monster Web.gif">Sea Monster </a></blockquote>
+<img src='/Sea Monster Web.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ... <a href= 'https://www.cockos.com/licecap/'> LiceCap </a> 
@@ -37,7 +37,8 @@ GIF created with ... <a href= 'https://www.cockos.com/licecap/'> LiceCap </a>
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+During the creation and modification of the site, I struggled at first with crafting functions using filter and reduce. However, with practice understanding the use of anonymous variables and functions became easier. Which led to understanding spread notation as well. 
+
 
 ## License
 
