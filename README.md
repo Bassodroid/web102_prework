@@ -26,7 +26,7 @@ Upon click on a game image, route the user to a brief description of the game.
 
 Here's a walkthrough of implemented features:
 
-<video width="320" height="240" autoplay> <source src='https://imgur.com/a/QwL98eX' title='Video Walkthrough' width='' alt='Video Walkthrough'> </video>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/QwL98eX"  ><a href="//imgur.com/a/QwL98eX">Sea Monster </a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ... <a href= 'https://www.cockos.com/licecap/'> LiceCap </a> 
