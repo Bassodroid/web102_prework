@@ -26,7 +26,7 @@ Upon click on a game image, route the user to a brief description of the game.
 
 Here's a walkthrough of implemented features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/QwL98eX"  ><a href="//imgur.com/a/QwL98eX">Sea Monster </a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/QwL98eX"><a href="/Sea Monster Web.gif">Sea Monster </a></blockquote>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ... <a href= 'https://www.cockos.com/licecap/'> LiceCap </a> 
