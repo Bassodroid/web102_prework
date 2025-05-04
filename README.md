@@ -42,7 +42,7 @@ During the creation and modification of the site, I struggled at first with craf
 
 ## License
 
-    Copyright [2023] [Dulyne LaGredelle]
+    Copyright [2025] [Dulyne LaGredelle]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
