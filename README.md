@@ -4,7 +4,7 @@ Submitted by: Dulyne LaGredelle
 
 Sea Monster Web App is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: 50 hours spent in total
+Time spent: 10 hours spent in total
 
 ## Required Features
 
@@ -42,7 +42,7 @@ During the creation and modification of the site, I struggled at first with craf
 
 ## License
 
-    Copyright [2025] [Dulyne LaGredelle]
+    Copyright [2026] [Dulyne LaGredelle]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
